@@ -51,3 +51,36 @@
     gap : 15px;
    
 }
+.app-list__left-item {
+   
+    display : flex;
+    background: blue;
+
+}
+.app-list__left-item-flex {
+    background: orange ;
+    margin : 10px;
+}
+.app-list__left-item-image {
+    
+    background-color: orange ;
+}
+.app-list__left-item-content {
+    background: white;
+}
+.app-list__left-item-content {
+    width : 100%;
+    padding : 15px;
+}
+.app-list__left-item-image img {
+  width : 100%;
+}
+.app-list__right_image {
+    background: rgb(26, 255, 0);
+}
+.app-list__right_content {
+    background: burlywood ;
+}
+.app-list__right_image img {
+    width : 100%;
+}
