@@ -1,0 +1,53 @@
+.nav {
+    background: red;
+}
+.content {
+    background: yellow;
+}
+.app-header__first{
+    background-color: aqua;
+}
+.app-header__second {
+    background: rgba(0, 0, 0, 0.512);
+}
+.app-header__third {
+    background: blue;
+}
+.app-block-first__first {
+  background: pink;
+}
+.app-block-first__second {
+  background: brown;
+}
+.app-block-first__third {
+  background: rgba(0, 0, 0, 0.453);
+}
+.app-form__item {
+  background: white;
+}
+.app-form__item2 {
+    background: orange;
+}
+.app-footer-item {
+    background: rgb(123, 255, 0);
+}
+.app-demo__menu {
+    background: red;
+}
+.app-demo__content {
+    background: blue;
+}
+.app-demo__menu li{
+    display: block;
+    padding : 15px;
+}
+.app-demo__content-item {
+    background: white;
+    text-align: center;
+    padding : 50px 0px;
+}
+.app-demo__content {
+    display: grid;
+    gap : 15px;
+   
+}
